@@ -10,4 +10,4 @@ CameraLibrary is a lightweight Swift library for capturing images.
 ## 🎥 Demo
 
 Watch a quick demo of the CameraLibrary in action:
-![Demo Video](https://github.com/Nic815/CameraLibrary/raw/main/demo/demo.mov)
+![Demo Video](https://github.com/Nic815/CameraLibrary/releases/tag/v1.0/DemoVideo.mov)
